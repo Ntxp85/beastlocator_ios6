@@ -1,0 +1,1 @@
+# beastlocator_ios6
