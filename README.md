@@ -1,4 +1,4 @@
-#BeastLocator for iOS: 野獣邸の方角を知る
+# BeastLocator for iOS: 野獣邸の方角を知る
 このリポジトリは、Android版/IOS版`ビーストロケーター`をもとにした非公式のレガシーiOS移植版です。  
 親プロジェクト:https://github.com/Link2011-Act2/BeastLocator
 親プロジェクトios
